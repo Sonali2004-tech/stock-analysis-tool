@@ -4,4 +4,4 @@ Python-based GUI application for real-time stock market analysis using yFinance 
 
 This shows the stock analysis tool with user input and profit calculation.
 
-![Stock Analyzer](screenshot.png)
+![Stock Analyzer](screenshot_v2.png)
